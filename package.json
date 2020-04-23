@@ -9,6 +9,7 @@
   },
   "keywords": [
     "heroku",
+    "heroku pipeline",
     "nodejs",
     "ci/cd",
     "git"
